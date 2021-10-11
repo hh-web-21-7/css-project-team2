@@ -22,12 +22,12 @@
   bottom: 0;
   left: 0;
   background-color: rgba(0, 0, 0, 0.7);
-}  
+}
 
 .header--search {
   justify-content: center;
 }
-.header--post-View {
+.header--post-view {
   display: grid;
   grid-template-columns: 50px auto 50px;
   align-items: center;
