@@ -1,7 +1,5 @@
 {
-
   "name": "instagram-clone",
-
   "private": true,
   "scripts": {
     "css:check": "npx stylelint **/*.css",
