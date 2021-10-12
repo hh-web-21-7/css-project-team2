@@ -1,0 +1,8 @@
+.main {
+  background-color: var(--color-background);
+  overflow-y: auto;
+}
+
+.main--profile {
+  overflow: visible;
+}
